@@ -15,3 +15,22 @@ Trillions of different name and city/street combinations.
 Many cities from all US states and all German states (Bundesländer) in test data.
 Countless name & address combinations for US and German addresses.
 The software is written in Java and can be imported into any IDE as simple Maven project. In order to support various kinds of data formats, it is pre-configured to make use of the template engine of the JIOWA Code Generation Framework. Using simple code templates it is very easy to automatically generate project specific code enriched with random test data (classes, SQL scripts, configuration files, unit and integration tests, ...). 
+
+## Tutorial & Handbook
+Click here for the [Slideshare presentation](http://de.slideshare.net/Robert_Mencl/jiowa-test-data-generation)
+and here for the 
+[PDF version of the handbook](http://www.jiowa.de/jiowa-codegen/doc/Jiowa-Test-Data-Generation-Tutorial-1.1.pdf).
+
+## Download
+
+The distribution consists of a pre-configured Maven project. 
+
+[**Download the code generation framework here ...**](http://www.jiowa.de/download.html)
+
+You might also want to have a look at the [README](http://www.jiowa.de/jiowa-testdatagen/README) file of the distribution.
+
+Java Doc: [www.jiowa.de/jiowa-testdatagen/doc/api/](http://www.jiowa.de/jiowa-testdatagen/doc/api/)
+
+##License
+JIOWA Test Data Generation Tool is free for commercial and non-commercial purposes and licensed under the 
+[JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-testdatagen-license.html) which basically means that you have to set a backlink to the [JIOWA homepage](http://www.jiowa.de/). That's all!
