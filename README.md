@@ -8,7 +8,7 @@ Other approaches often rely on numerated test names ("Thomas001 Muller058", ... 
 
 This tool is able to create millions of different realistic names to address this problem.
 
-Some statistics:
+**Some statistics:**
 
 Around 100 million international different female & male name combinations.
 Trillions of different name and city/street combinations.
@@ -31,6 +31,6 @@ You might also want to have a look at the [README](http://www.jiowa.de/jiowa-tes
 
 Java Doc: [www.jiowa.de/jiowa-testdatagen/doc/api/](http://www.jiowa.de/jiowa-testdatagen/doc/api/)
 
-##License
+## License
 JIOWA Test Data Generation Tool is free for commercial and non-commercial purposes and licensed under the 
 [JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-testdatagen-license.html) which basically means that you have to set a backlink to the [JIOWA homepage](http://www.jiowa.de/). That's all!
